@@ -1,0 +1,17 @@
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\bin\Debug\net6.0\DAL.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\bin\Debug\net6.0\DTO.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\bin\Debug\net6.0\DTO.pdb
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\DAL\obj\Debug\net6.0\ref\DAL.dll
