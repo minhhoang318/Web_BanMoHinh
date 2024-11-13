@@ -1,4 +1,5 @@
 ﻿using BLL.Interfaces;
+using BLL;
 using DTO;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -9,24 +10,33 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
-        private readonly IAuthService _authService;
+        private readonly INguoiDungService _nguoiDungService;
 
-        public AuthController(IAuthService authService)
+        public AuthController(INguoiDungService nguoiDungService)
         {
-            _authService = authService;
+            _nguoiDungService = nguoiDungService;
         }
 
-        // POST: api/login
+        // API đăng nhập
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginDTO request)
+        public async Task<IActionResult> Login([FromBody] LoginDTO loginDto)
         {
-            var token = await _authService.AuthenticateAsync(request.Username, request.Password);
-            if (token == null)
+            // Xác thực người dùng
+            var user = await _nguoiDungService.AuthenticateUserAsync(loginDto);
+
+            if (user == null)
             {
-                return Unauthorized("Invalid credentials");
+                return Unauthorized("Invalid username or password");  // Trả về lỗi nếu đăng nhập thất bại
             }
 
-            return Ok(new AuthenticateDTO { Token = token });
+            // Trả về token
+            var token = _nguoiDungService.GenerateJwtToken(user); // Gọi trực tiếp từ NguoiDungService
+
+            return Ok(new
+            {
+                User = user,
+                Token = token
+            });
         }
     }
 }

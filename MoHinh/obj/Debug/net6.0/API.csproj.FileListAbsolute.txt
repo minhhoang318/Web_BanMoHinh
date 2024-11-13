@@ -98,3 +98,4 @@ D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\MoHinh\obj\Debug\net6.0\refint\API.dll
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\MoHinh\obj\Debug\net6.0\API.pdb
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\MoHinh\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\MoHinh\obj\Debug\net6.0\ref\API.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\MoHinh\obj\Debug\net6.0\API.sourcelink.json

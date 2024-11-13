@@ -11,5 +11,7 @@ namespace BLL.Interfaces
         Task AddNguoiDungAsync(NguoiDungDTO nguoiDungDto);
         Task UpdateNguoiDungAsync(int id, NguoiDungDTO nguoiDungDto);
         Task DeleteNguoiDungAsync(int id);
+        Task<NguoiDungDTO> AuthenticateUserAsync(LoginDTO loginDto);
+        Task<NguoiDungDTO> GenerateJwtToken(NguoiDungDTO user);
     }
 }

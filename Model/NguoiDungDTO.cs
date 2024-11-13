@@ -1,14 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-
-namespace DTO
+﻿namespace DTO
 {
     public class NguoiDungDTO
     {
-        public int NguoiDungID { get; set; }             // Primary Key
-        public string? HoTen { get; set; }                // Full Name
-        public string? Taikhoan { get; set; }             // Username
-        public string? MatKhau { get; set; }              // Password
-        public string? Quyen { get; set; }                 // Role
+        public int NguoiDungID { get; set; }
+        public string HoTen { get; set; }
+        public string Taikhoan { get; set; }
+        public string MatKhau { get; set; } // Mã hóa mật khẩu trong cơ sở dữ liệu
+        public string Quyen { get; set; }
     }
 }

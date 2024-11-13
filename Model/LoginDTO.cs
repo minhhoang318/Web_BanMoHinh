@@ -2,7 +2,7 @@
 {
     public class LoginDTO
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
+        public string Taikhoan { get; set; }  // Tên đăng nhập (Username)
+        public string MatKhau { get; set; }   // Mật khẩu (Password)
     }
 }

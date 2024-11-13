@@ -12,3 +12,4 @@ D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\Model\obj\Debug\net6.0\refint\DTO.dll
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\Model\obj\Debug\net6.0\DTO.pdb
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\Model\obj\Debug\net6.0\DTO.genruntimeconfig.cache
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\Model\obj\Debug\net6.0\ref\DTO.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\Model\obj\Debug\net6.0\DTO.sourcelink.json

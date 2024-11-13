@@ -17,3 +17,4 @@ D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\BLL\obj\Debug\net6.0\refint\BLL.dll
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\BLL\obj\Debug\net6.0\BLL.pdb
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
 D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\Tài liệu\Hoàng\VsCode\Web\MoHinh\BLL\obj\Debug\net6.0\BLL.sourcelink.json
